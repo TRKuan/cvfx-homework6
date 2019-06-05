@@ -2,7 +2,11 @@
 
 ## AR effect with ORB-SLAM2
 ### Result
-嘗試將一個茶壺放到書桌上:  
+#### Image
+將Pikachu的圖片放到書桌上:  
+![](output_image.gif)  
+#### 3D Model
+將一個茶壺放到書桌上:  
 ![](output_video.gif)  
 原本影片和SLAM結果:  
 ![](output.gif)
