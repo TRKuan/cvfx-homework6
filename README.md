@@ -26,7 +26,8 @@
 
 ## AR effect with post-production software（10%）
 運用AE的3D track camera effect來追蹤camera位置，並在場景中加上Pikachu的圖片。
-在此部分，我們利用After Effect CC這個後製軟體來對我們的第二部影片進行後製，我們是參考以下這部影片來做到3D track effect的效果的
+在此部分，我們利用After Effect CC這個後製軟體來對我們的第二部影片進行後製，我們是參考以下這部影片來做到3D track effect的效果
+
 連結：https://www.youtube.com/watch?v=t6hgmRZZ4WE&fbclid=IwAR0viDbbr6cHeuIDEZvv8pUrx8CXnp3iQxAnNtzA4n_uCgFjId-a244jcIo
 
 而第二部影片經過AE所做出來的結果影片為以下連結：https://www.youtube.com/watch?v=qSIBZtAg_Ss&feature=youtu.be
